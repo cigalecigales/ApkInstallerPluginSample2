@@ -14,6 +14,7 @@ This cordova project use this.<br>
 ```bash
 $ git clone https://github.com/cigalecigales/ApkInstallerPluginSample2.git
 $ cd ApkInstallerPluginSample2
+$ cordova platform add android
 ```
 
 ### 2. change apk url
