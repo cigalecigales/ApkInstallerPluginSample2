@@ -1,0 +1,49 @@
+{
+  "_from": "git+https://github.com/cigalecigales/cordova-plugin-apkInstaller.git",
+  "_id": "cordova-plugin-apkinstaller@1.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-apkinstaller",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/cigalecigales/cordova-plugin-apkInstaller.git",
+    "rawSpec": "https://github.com/cigalecigales/cordova-plugin-apkInstaller.git",
+    "saveSpec": "git+https://github.com/cigalecigales/cordova-plugin-apkInstaller.git",
+    "fetchSpec": "https://github.com/cigalecigales/cordova-plugin-apkInstaller.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/cigalecigales/cordova-plugin-apkInstaller.git#41176f9f868632377858dbd6aa1fbbc2191707e9",
+  "_spec": "https://github.com/cigalecigales/cordova-plugin-apkInstaller.git",
+  "_where": "/Users/manycicadas/Documents/cordova/apkInstaller2",
+  "author": {
+    "name": "cigalecigales"
+  },
+  "bugs": {
+    "url": "https://github.com/cigalecigales/cordova-plugin-apkInstaller/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova Apk Installer Plugin.",
+  "homepage": "https://github.com/cigalecigales/cordova-plugin-apkInstaller#readme",
+  "keywords": [
+    "cordova",
+    "apk",
+    "installer"
+  ],
+  "license": "Apache-2.0",
+  "main": "appInstaller.js",
+  "name": "cordova-plugin-apkinstaller",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cigalecigales/cordova-plugin-apkInstaller.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
