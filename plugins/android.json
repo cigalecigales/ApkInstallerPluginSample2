@@ -7,13 +7,13 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
+    "cordova-plugin-apkInstaller": {
       "PACKAGE_NAME": "io.cordova.hellocordova2"
     },
     "cordova-plugin-file-transfer": {
       "PACKAGE_NAME": "io.cordova.hellocordova2"
     },
-    "cordova-plugin-apkInstaller": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "io.cordova.hellocordova2"
     }
   },
